@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a Derby fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a Derby fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a Derby fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a Derby trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a Derby trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some Derby information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
