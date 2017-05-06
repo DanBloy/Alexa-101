@@ -1,0 +1,8 @@
+These files are backup files for the Alexa 101 Course.
+
+Lesson1 = FACT Skill
+Lesson2 = Mobile Companion
+Lesson3 = S3 Audio
+Lesson4 = Database
+
+File in root .bat is for use with the AWS CLI and 7zip to automate the uploading of the Lambda Code
