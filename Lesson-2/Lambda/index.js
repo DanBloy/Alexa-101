@@ -28,7 +28,7 @@ var handlers = {
         this.emit('GetFact');
     },
     'GetFact': function() {
-        // Get a random nottngham fact from the Derby facts list
+        // Get a random Derby fact from the Derby facts list
         var factIndex = Math.floor(Math.random() * FACTS.length);
         var randomFact = FACTS[factIndex];
 
